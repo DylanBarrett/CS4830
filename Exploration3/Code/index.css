@@ -1,0 +1,32 @@
+html, body{
+	background-color: tan;
+	background-size: cover;
+	height: 100%;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+.book-container {
+  margin: 5%;
+  padding: 5%;
+}
+
+.book-list-item {
+  display: block;
+}
+.header{
+	text-align: center;
+	font-family: cursive;
+	color: black;
+	font-size: 50px;
+	margin: 20px;
+	padding: 10px;
+}
+.bookField{
+	text-align: center;
+	font-family:sans-serif;
+	color: black;
+	font-size: 30px;
+	margin 5px;
+	padding 5px;
+}
